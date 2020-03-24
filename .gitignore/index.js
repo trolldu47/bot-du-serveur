@@ -25,5 +25,5 @@ fs.readdir('./Events/', (error, f) => {
         });
 });
 
-client.login('NjgyNTE3MjA2OTk0NzgwMTkx.XmPe2Q.hIgRzGK4pO1UHO2TgwplonXAv3o');
+client.login('NjgyNTE3MjA2OTk0NzgwMTkx.Xno1LA.HgvZwyEdgal4t-AO1qMupfXiags');
 
